@@ -52,7 +52,7 @@ I am a passionate **Web Developer & AI Enthusiast** who loves building modern we
 ## 📫 Connect With Me
 
 * GitHub: [https://github.com/yourusername](https://github.com/KalaiGanesh2005/KalaiGanesh2005)
-* LinkedIn: [https://linkedin.com/in/yourprofile](www.linkedin.com/in/kalai-ganesh-r2005)
+* LinkedIn:[www.linkedin.com/in/kalai-ganesh-r2005](www.linkedin.com/in/kalai-ganesh-r2005)
 
 ---
 
