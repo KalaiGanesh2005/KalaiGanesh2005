@@ -49,14 +49,6 @@ I am a passionate **Web Developer & AI Enthusiast** who loves building modern we
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats]()
-
-![Top Languages]()
-
----
-
 ## 📫 Connect With Me
 
 * GitHub: [https://github.com/yourusername]([https://github.com/yourusername](https://github.com/KalaiGanesh2005/KalaiGanesh2005))
